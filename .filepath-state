@@ -1,0 +1,230 @@
+{
+  "c75e15c614e4f2bd23b2f063cb580252a585530b": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Approve-or-Reject-a-Pending-PAM-Request.md"
+  ],
+  "cf6c6e88c442745b0dc4344d0cdae3a768c797ff": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Assign-Smartcard-to-a-Request.md"
+  ],
+  "6f7402c9fbbbf332c3a1ac0c213228d7fe00dd4f": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Cancel,-Abandon,-or-Complete-a-Request.md"
+  ],
+  "070783229eac497481695176caa0556e5c04b07a": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Certificate-Management-REST-API-Reference.md"
+  ],
+  "82a4b43d59c5bb31968285b1412608b4238b42ee": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Certificate-Manager-for-Non-Administrators.md"
+  ],
+  "9f5c083196ca277237779618c9ff4b9fcb5f15b4": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Certificate-Manager-for-Software-Certificates.md"
+  ],
+  "1b17fd8dca32803f50827ad356275e8134765db4": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Certificate-Operations.md"
+  ],
+  "1d0bb97b1d2e55351cea0806b676e18eae00df37": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Certificate-Request-Operations.md"
+  ],
+  "bcdae1be8cc1639f20997b208b55cd6f93bdfd72": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Close-PAM-Request.md"
+  ],
+  "4ec2c3a722561ad760c7117adfb8f532418b453b": [
+    "CapsToOps0129_MIM\\v1\\Topic\\CM-REST-API-Service-Details.md"
+  ],
+  "ecbf791f8baceaec666df0bb58428a3439c0c0f3": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Configuring-the-MIM-Environment-for-Privileged-Access-Management.md"
+  ],
+  "90e0d51aad52bb10c0714ea9c2ebdc03ac1b0296": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Create-PAM-Request.md"
+  ],
+  "b31a00f6846c351b6a3f5a0c2cfe0621324485d3": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Create-Request.md"
+  ],
+  "b1aecadf5222869fbbc95cd2415038b42eaac2fe": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Defining-roles-for-Privileged-Access-Management.md"
+  ],
+  "4b8ffb9e594645b4d1e5e7d98ff4fcfd2e1c7e4d": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Deploying-MIM.md"
+  ],
+  "8c20cf7d5872afa659089d2842f1cf7b51c61f07": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Deploying-the-MIM-Password-Change-Notification-Service--PCNS--on-a-Domain-Controller.md"
+  ],
+  "aab1453791f2307fbd0b3013654812ba2aaf0fc5": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Deployment-Considerations-for-Privileged-Access-Management.md"
+  ],
+  "e98881c46050e3da86d1d04aa78ca095a79c695b": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Environment-Overview.md"
+  ],
+  "57cb2b4073f8f803411f190745521d79e3cf1cbf": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Certificate-Request-Generation-Options.md"
+  ],
+  "dd5b85d63f6b9d3fecbc9355287a07cedd148376": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Certificate-Responses.md"
+  ],
+  "c142eb0dca72d7b6fb800c8709e1c2034fd84396": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-PAM-Requests.md"
+  ],
+  "8f377a1bd2150105e689454ae7b01bed48f7df2c": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-PAM-Roles.md"
+  ],
+  "eeb3194988c7760771a1e7e5780aa5eb24a9a422": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-PAM-Session-Info.md"
+  ],
+  "cfea52d41fca5218cbb50d1475c2c93ea0a2cf85": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Pending-PAM-Requests.md"
+  ],
+  "a9dd03bfcb279535e7a8fa0eda10e70c92a3461f": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Profile-Data.md"
+  ],
+  "3c877c3240e517eaa1ab698e44ff5632db1d1023": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Profile-State-Operations.md"
+  ],
+  "b30c22e7d9713b7e86f537b3c16ba837bfe4ebb4": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Profile-Templates.md"
+  ],
+  "2414ed9af43f3c5b9cb82824a18491562de65402": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Request.md"
+  ],
+  "4df1539aefc38aa515198642a7e34ebf52710ce2": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-Authentication-Response.md"
+  ],
+  "fb816bd79f6998ea5b6a84026c62325fb99efa28": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-Data.md"
+  ],
+  "f9ab04c4bfed1b5ed9e66b3306703b8694245f18": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-Diversified-Admin-Key.md"
+  ],
+  "76bc5f088e9315e57d2f4dd8f00b8054d8711c4f": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-or-Profile-Certificates.md"
+  ],
+  "c1ebeace1b37c9c0778892d34cf2732fe7f812fa": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-Policy.md"
+  ],
+  "3cc6a1164ba21a09a02897f4adbbab2cdb9dbf1c": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Smartcard-Proposed-PIN.md"
+  ],
+  "be230cb4e8cc92f4bc92a4accb24a6ef33da5e74": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-User-Certificates.md"
+  ],
+  "8e5605b287ea330f6998d4b4c6f6dc734eb81353": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Get-Workflow-Policy.md"
+  ],
+  "e1f4b80e684a1074c6f0f244dc0374e070f5d494": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Getting-Started-with-Privileged-Access-Management.md"
+  ],
+  "35eaa0a4225770957cada16dd91f237bcc2ebcf6": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Hardware-and-Software-Requirements.md"
+  ],
+  "4b26f0682f0d8b0a10024e9245efedce302206eb": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Identity-Manager-Hybrid-Reporting-in-Azure.md"
+  ],
+  "12729833462e8225631cf58c75e314e50c0c2a4d": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Installing-Microsoft-Identity-Manager-2016-Server-Components.md"
+  ],
+  "b210cd172b1e9bac44441d569f7d4521dfad0868": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Microsoft-Identity-Manager-2016-Developer-Reference.md"
+  ],
+  "4e81d11774ecab8ad3b4f6381e366de81d1896f9": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Microsoft-Identity-Manager-2016.md"
+  ],
+  "982d5ecd40baaf52580302e9eecd32fc2dc4db35": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Microsoft-Identity-Manager.md"
+  ],
+  "f6ad6de4c58ba4914b60c484ecf6b10352ceae0d": [
+    "CapsToOps0129_MIM\\v1\\Topic\\PAM-REST-API-Service-Details.md"
+  ],
+  "d6f6a8792b2cfc964652e5f6e73d8f77bed97e61": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Planning-a-bastion-environment.md"
+  ],
+  "00a733f01cb3fb21f6ac2621e11f8393f831c9c0": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Policy-Operations.md"
+  ],
+  "355e013a7186a2fa256038b93306c75d10921809": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Preparing-a-Corporate-Identity-Management-Server.md"
+  ],
+  "acdbac44553c3a75249f2d85ad61bab1c5cf4f7e": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Preparing-the-Domain.md"
+  ],
+  "70cf05e91c9bf94afe9f85d2da61b88a8f6c4b55": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Principles-of-Operation.md"
+  ],
+  "9dc4ad255acb502b7049bdb1575a7470f94fe4e8": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Privileged-Access-Management-Operations.md"
+  ],
+  "5207fd07d0b438275223ee6c21a3b3a10888bb48": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Privileged-Access-Management-REST-API-Reference.md"
+  ],
+  "8793b1212a736c10baa1a5d1f3bf7779f6b02ea8": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Privileged-Identity-Management-for-Active-Directory-Domain-Services--AD-DS-.md"
+  ],
+  "b6490c45dccf63807bf0c5f7b16cb8fa11e9fb59": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Profile-Operations.md"
+  ],
+  "710f04dba04924ae5031bd14e9a4f7e388b8a850": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Request-Operations.md"
+  ],
+  "4504d3dcef3dc8e5d140837a9cffe8a43ab683b9": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Sample-Enrollment-Walkthrough.md"
+  ],
+  "d03e6a3bdd5393ac9a958f8a85f8598c4e8c7e19": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Setting-Up-Self-Service-Password-Reset-and-Account-Unlock.md"
+  ],
+  "e6c4f507eec0f4d4eb27d3c2e8a3f8c16e8fe58f": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Smartcard-Operations.md"
+  ],
+  "7c2c55e6cd4d01b0df025a4048b7b65476bdc477": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-1---Prepare-the-CORP-domain-controller.md"
+  ],
+  "fdb4b8fdbb941a0d49a933ab011a89cab9fa0d51": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-1---Prepare-the-CORP-domain.md"
+  ],
+  "aa9b989f71011d90e0198fe0cd48eb4d871173f1": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-2---Prepare-the-PRIV-domain-controller.md"
+  ],
+  "41c9a6aa3ba5bc35adc421bda5dd3e286820da75": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-2-–-Prepare-PRIV-domain-controller.md"
+  ],
+  "a29e1118d4650aeef338bf0a9e20ec19e43798a0": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-3-–-Prepare-a-PAM-server.md"
+  ],
+  "2dac1490401283d3a787faf15f8146257f10a93a": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-4-–-Install-MIM-components-on-PAM-server-and-workstation.md"
+  ],
+  "751a6eaf47a74fdc2d55215729e587e5aabaf5ff": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-5-–-Establish-trust-between-PRIV-and-CORP-forests.md"
+  ],
+  "7c2015e0a6c825882ef314930b1845e3ecba351e": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-6-–-Transition-a-group-to-Privileged-Access-Management.md"
+  ],
+  "6f189463971f6956308e574a691f8674499131cf": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-7-–-Elevate-a-user’s-access.md"
+  ],
+  "079910ced0849916460839cb4a4dea494c902e01": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Step-One--Do-this.md"
+  ],
+  "f6abe675b936b07e17a5d663f37e52821ea27271": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Supported-Platforms-for-MIM-2016.md"
+  ],
+  "70e35ec0cebe8c3eec1ad1f5a19a4d0892f05f3c": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Tier-model-for-partitioning-administrative-privileges.md"
+  ],
+  "eede5868d73f3f7438e86df91fa5735eabab9b2c": [
+    "CapsToOps0129_MIM\\v1\\Topic\\TOC.md"
+  ],
+  "efa188646a15c99bf79aa38b7ecd12ea07b99a59": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Update-Smartcard-Status.md"
+  ],
+  "9c5c4337c3650d1dd7212e92ec88c2653a2d3ab5": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Upgrading-Forefront-Identity-Manager-2010-R2-to-Microsoft-Identity-Manager-2016.md"
+  ],
+  "58fda4e1e16a677bfbc329a6a5605d4c8726d4ba": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Using-Azure-MFA-for-activation.md"
+  ],
+  "adc510267f4d56ef86146281268fde813720bcf7": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Working-with-Identity-Manager-Hybrid-Reporting.md"
+  ],
+  "0b844a8b07604ecd8010adfcf7f91c96c9ce7243": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Working-with-Self-Service-Login-Assistance.md"
+  ],
+  "84cdf47be461e788258042e57a8dc627b6ebacbc": [
+    "CapsToOps0129_MIM\\v1\\Topic\\Working-with-the-MIM-Certificate-Manager.md"
+  ]
+}
